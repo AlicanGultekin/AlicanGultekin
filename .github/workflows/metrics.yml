@@ -57,7 +57,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_reactions: yes
+          plugin_reactions: no
           plugin_reactions_display: absolute
           plugin_reactions_limit: 200
           plugin_reactions_limit_discussions: 100
