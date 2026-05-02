@@ -1478,7 +1478,7 @@ Gamer ⌨ 🖱️</div>
                                         @indifferentchicken not getting the thread starvation anymore and can reach the Windrose+ UI and API from another machine on the network but getting a bunch of errors and a restart loop.
 The result is the same when I turn off Windrose+ and with and without the workaround from #1.
 I'll give up trying to run this on Windows for now and use one of my linux machines to host, thank you for your help so far.
-edit 02/05/2026: having the same errors on a fresh ubuntu install
+edit 02/05/2026: having the same errors on a fresh ubuntu install, decided to go ahead with https://github.com/ManuelStaggl/WindroseServerManager/ on Windows. Will revisit this project again in the future.
 full logs: logs.txt
 errors:
                                         <code class="language-multiline" xml:space="preserve">2026-05-01 11:45:40.698 | [2026.05.01-10.45.40:685][ 64]LogWindows: Error: appError called: Fatal error: [File:D:\Source\Build\work\gameRepoCheckoutDir\Source\R5\Game\GameStates\Components\R5GameProblems.cpp] [Line: 211] 
@@ -1569,7 +1569,7 @@ Thank you for your hard work.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 May 2026, 12:21:50 (timezone Europe/London) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 2 May 2026, 13:26:39 (timezone Europe/London) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
